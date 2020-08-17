@@ -1,0 +1,24 @@
+# ERC Examples and Demos
+
+## Developing
+
+- ERC20
+- ERC721
+- ERC777
+- ERC1155
+- ERC1400
+- ERC1404
+- ERC1462
+- ERC725
+- ERC735
+- ERC1056
+- ERC1812
+- ERC1337
+- ERC1620
+- ERC1077
+- ERC1078
+- ERC1613
+- ERC2390
+
+- ST20
+- R-Token
