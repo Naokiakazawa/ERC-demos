@@ -1,4 +1,4 @@
-# Collection of ERC Examples and Demos
+# Collection of ERC demonstrations
 
 ## Developing
 
