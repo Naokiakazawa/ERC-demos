@@ -1,4 +1,4 @@
-# ERC Examples and Demos
+# Collection of ERC Examples and Demos
 
 ## Developing
 
