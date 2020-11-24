@@ -1,0 +1,18 @@
+version: '3.8'
+services:
+  ganache:
+    build: ganache
+    image: ganache:erc
+    container_name: ganache-cli
+    tty: true
+    volumes:
+      - ./ganache/db:/var/ganache
+    ports: 
+      - "8545:8545"
+  hardhat:
+    build: hardhat
+    image: hardhat
+    container_name: hardhat
+    tty: true
+    volumes: 
+      - ./hardhat/src:/usr/src
