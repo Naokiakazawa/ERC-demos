@@ -16,3 +16,7 @@ services:
     tty: true
     volumes: 
       - ./hardhat/src:/usr/src
+networks:
+  default:
+    external:
+      name: dapp_dev_01
