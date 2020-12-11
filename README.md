@@ -25,7 +25,7 @@
 
 ## Security Tokens
 
-- ERC884 (DGCL compatible  share token)
+- ERC884 (DGCL compatible share token)
 - ERC1400 (Security token standard)
 - ERC1404 (An open source standard for security tokens)
 - ERC1450 (A compatible security token for issuing and trading SEC-compliant securities)
