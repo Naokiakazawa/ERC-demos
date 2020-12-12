@@ -21,7 +21,7 @@
 
 ## Re-Fungible Tokens(RFT)
 
-- EIP1633 (Re-Fungible Tokens)
+- EIP1633 (Re Fungible Tokens)
 
 ## Security Tokens
 
