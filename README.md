@@ -37,12 +37,12 @@
 
 - ERC725 (Ethereum Identity Standard)
 - ERC735 (Claim Holder)
-- ERC780 (Ethereum Claims Registry)
+- [ERC780 (Ethereum Claims Registry)](https://github.com/ethereum/EIPs/issues/780)
 - ERC902 (Token Validation)
 - ERC939 (Identity Claim Holder)
-- ERC1056 (Lightweight Identity)
-- ERC1484 (Digital Identity Aggregator)
-- ERC1812 (Ethereum Verifiable Claims)
+- [ERC1056 (Lightweight Identity)](https://github.com/ethereum/EIPs/issues/1056)
+- [ERC1484 (Digital Identity Aggregator)](https://github.com/ethereum/EIPs/issues/1495)
+- [ERC1812 (Ethereum Verifiable Claims)](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1812.md)
 
 ## Universal Login
 
@@ -62,6 +62,7 @@
 ## Others
 
 - ERC1613 (Gas stations network)
+- [ERC1753(Smart Contract Interface for Licences)](https://eips.ethereum.org/EIPS/eip-1753)
 
 # Reference
 [RIPs/ERC](https://eips.ethereum.org/erc)
